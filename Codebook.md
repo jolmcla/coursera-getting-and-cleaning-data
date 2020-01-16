@@ -1,5 +1,7 @@
-Code Book
+CODE BOOK
+
 Description of the data and the transformations in order to clean data
+
 Repository of the Data:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
