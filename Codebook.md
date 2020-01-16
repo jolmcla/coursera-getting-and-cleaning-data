@@ -30,7 +30,9 @@ Contents
       train/Inertial Signals/body_acc_x_train.txt: Body acceleration signal X axis
       train/Inertial Signals/body_acc_y_train.txt: Body acceleration signal Y axis
       train/Inertial Signals/body_acc_z_train.txt: Body acceleration signal Z axis
-      train/Inertial Signals/body_gyro_x_train.txt: Angular velocity vector measured by the gyroscope 
+      train/Inertial Signals/body_gyro_x_train.txt: Angular velocity vector measured by the gyroscope X axis
+      train/Inertial Signals/body_gyro_y_train.txt: Angular velocity vector measured by the gyroscope Y axis
+      train/Inertial Signals/body_gyro_z_train.txt: Angular velocity vector measured by the gyroscope Z axis
       
 Data Transformations
 
